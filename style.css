@@ -1,0 +1,50 @@
+/* CSS Document */
+
+body {
+ background-color: #ffffff;
+ color: #000000;
+}
+
+.bigtitle {
+ background-color: #ffffff;
+ color: #005a9c;
+ font-size: 4em;
+ text-align: left;
+}
+
+.title {
+ background-color: #005a9c;
+ color: #FFFFFF;
+ font-size:1.5em;
+}
+
+.code {
+ background-color:#eeeeff;
+ color: #000000;
+}
+
+.example {
+ background-color:#eeeeff;
+ color: #000000;
+}
+
+.servo_title {
+ background-color: #005a9c;
+ color: #FFFFFF;
+ font-size: 1.5em;
+ text-align: center;
+}
+
+.servo {
+ background-color:#eeeeff;
+ color: #000000;
+}
+
+.contents {
+ border-color: #005a9c;
+ border-style: solid;
+ border-width: thick;
+ color: #005a9c;
+ background-color: #eeeeff;
+ text-align: left;
+}
